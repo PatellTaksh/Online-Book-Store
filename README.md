@@ -115,10 +115,10 @@ This project demonstrates the use of SQL for database design, data management, a
 ## Database Preview
 
 ### Books Table
-![Books Table](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774614234481-zc20mltyo.png)
+![Books Table](png/book.png)
 
 ### Customers Table
-![Customers Table](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774614240742-e2bzm0uop.png)
+![Customers Table](png/customers.png)
 
 ### Orders Table
-![Orders Table](https://spbjhmjozqtxowgfyeht.supabase.co/storage/v1/object/public/images/dd33122c-791c-456e-8bdc-c20f1b853b87/1774614249730-8h2zv9cte.png)
+![Orders Table](png/orders.png)
